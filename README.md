@@ -40,11 +40,17 @@ Choosing the Right YOLOv5 Model
 # The YOLOv5 family offers models with different trade-offs between speed and accuracy:
 
 YOLOv5n: Smallest and fastest model, suitable for low-power devices.
+
 YOLOv5s: Balanced model, providing a good trade-off between speed and accuracy.
+
 YOLOv5m: Medium-sized model, offering higher accuracy than smaller models.
+
 YOLOv5l: Large model, providing high accuracy but requiring more computational resources.
+
 YOLOv5x: Largest and most accurate model, suitable for high-performance applications.
+
 YOLOv8n: Newest and fastest model, offering a good balance of speed and accuracy.
+
 Using YOLOv5 for Object Detection
 # Make sure you have to installed ultralytics  and below libraries
 pip install -U ultralytics
