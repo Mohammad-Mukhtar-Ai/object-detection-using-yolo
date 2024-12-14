@@ -9,9 +9,13 @@ Localization: Pinpointing the exact location of the object within the image usin
 Object detection has a wide range of applications, including:
 
 Self-driving cars: Detecting pedestrians, vehicles, and traffic signs.   
+
 Surveillance systems: Monitoring for suspicious activity and identifying individuals.   
+
 Medical image analysis: Detecting tumors or anomalies in medical scans.   
+
 Retail analytics: Tracking customer behavior and inventory management.   
+
 Robotics: Enabling robots to interact with the physical world.   
 
 # Introduction to Yolo
