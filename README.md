@@ -4,6 +4,7 @@ Object detection is a computer vision technique that involves identifying and lo
 # Key Aspects of Object Detection:
 
 Identification: Recognizing the type of object present in the image (e.g., car, person, dog).   
+
 Localization: Pinpointing the exact location of the object within the image using a bounding box.   
 # Applications of Object Detection:
 Object detection has a wide range of applications, including:
@@ -20,7 +21,9 @@ Robotics: Enabling robots to interact with the physical world.  
 
 # Introduction to Yolo
 
-YOLOv5 is a state-of-the-art object detection model that has gained significant popularity due to its speed, accuracy, and ease of use. This guide provides a comprehensive overview of using YOLOv5 for object detection tasks, focusing on the n, x, l, and 8n variants.
+YOLOv5 is a state-of-the-art object detection model that has gained significant popularity due to its speed, accuracy, and ease of use.
+
+This guide provides a comprehensive overview of using YOLOv5 for object detection tasks, focusing on the n, x, l, and 8n variants.
 
 # Key Features of YOLOv5
 
