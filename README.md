@@ -84,9 +84,14 @@ detected_results.show()
 
 
 # Creating dataframe of resulted img to see statistics of each imgs
-resultyolov5s_df = detected_results.pandas().xyxy[0] 
+resultyolov5s_df = detected_results.pandas().xyxy[0]
 
+resultyolov5s_df
 
+# To make wafer/save file of the result img
+ detectedyolov5l_img_result.save()
+
+ rest goes same for each model  same steps 
 
 
 # MuhammadWaleed 
@@ -100,9 +105,7 @@ resultyolov5s_df = detected_results.pandas().xyxy[0]
  # KFUEITLecturer
  
  # KFUEITCommunity
-resultyolov5s_df
 
 
-# To make wafer/save file of the result img
- detectedyolov5l_img_result.save()
- rest goes same for each model  same steps 
+
+
