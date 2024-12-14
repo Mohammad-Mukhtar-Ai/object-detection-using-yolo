@@ -5,9 +5,8 @@ Object detection is a computer vision technique that involves identifying and lo
 
 Identification: Recognizing the type of object present in the image (e.g., car, person, dog).   
 Localization: Pinpointing the exact location of the object within the image using a bounding box.   
-Applications of Object Detection:
-
-# Object detection has a wide range of applications, including:
+# Applications of Object Detection:
+Object detection has a wide range of applications, including:
 
 Self-driving cars: Detecting pedestrians, vehicles, and traffic signs.   
 Surveillance systems: Monitoring for suspicious activity and identifying individuals.   
