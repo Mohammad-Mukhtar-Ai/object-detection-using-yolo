@@ -85,6 +85,21 @@ detected_results.show()
 
 # Creating dataframe of resulted img to see statistics of each imgs
 resultyolov5s_df = detected_results.pandas().xyxy[0] 
+
+
+
+
+# MuhammadWaleed 
+
+ # KFUEIT 
+ 
+ # DataScience 
+ 
+ # Education 
+ 
+ # KFUEITLecturer
+ 
+ # KFUEITCommunity
 resultyolov5s_df
 
 
